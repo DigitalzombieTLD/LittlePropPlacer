@@ -1,0 +1,45 @@
+﻿[Header]
+Savename = testprefabsave
+PrefabCount = 3
+
+[Prefab_0]
+Name = basketball 01
+Category = playground
+Position X = -11.85676
+Position Y = 0.8
+Position Z = -8.541447
+Rotation X = 0
+Rotation Y = 1
+Rotation Z = 0
+Scale X = 1
+Scale Y = 1
+Scale Z = 1
+Color Red = 255
+Color Green = 255
+Color Blue = 255
+Color Alpha = 255
+Visible = True
+isKinematic = True
+UseGravity = True
+Text = 
+
+[Prefab_1]
+Name = basketball 01
+Category = playground
+Position X = -13.04799
+Position Y = 0.8
+Position Z = -8.409476
+Rotation X = 0
+Rotation Y = 1
+Rotation Z = 0
+Scale X = 1
+Scale Y = 1
+Scale Z = 1
+Color Red = 255
+Color Green = 255
+Color Blue = 255
+Color Alpha = 255
+Visible = True
+isKinematic = True
+UseGravity = True
+Text = 
